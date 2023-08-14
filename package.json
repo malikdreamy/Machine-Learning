@@ -1,0 +1,19 @@
+{
+  "name": "machine-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.8.0",
+    "brain.js": "^2.0.0-beta.23",
+    "fuzzyset.js": "^1.0.7",
+    "natural": "^6.5.0",
+    "string-similarity": "^4.0.4"
+  }
+}
