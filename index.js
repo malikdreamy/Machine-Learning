@@ -7,7 +7,6 @@ const trainingData = [
   { input: 'How are you?', output: 'I am good.' },
   { input: 'What is your name?', output: 'My name is Chatbot.' },
   {input: 'how long to ship?' , output: '7-12 business days worldwide via DHL friend'},
-  {input:'how much for patek phillipe watches?', output: 'our patek watches are between $350 - $400'},
   {input: 'do you guys have stock?', output: 'yes we are currently in stock for everything we have on our site'},
   {input: 'do you guys ship to brazil?', output: 'yes we ship worldwide via DHL friend'}
   // Add more training data as needed
